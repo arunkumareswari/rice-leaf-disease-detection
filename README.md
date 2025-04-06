@@ -44,7 +44,6 @@ A mini project to detect rice leaf diseases using image classification. This pro
      - Accuracy
      - Classification Report
      - Confusion Matrix
-     - Pie Chart of Predictions
 
 3. **Model Deployment (Streamlit)**  
    - The best model (SVM) is saved using `joblib`  
